@@ -1,0 +1,716 @@
+<?xml version='1.0' ?>
+<root>
+	<gametext>
+		
+		<!--[MENU]-->
+		<text id='test'>
+			<string lang='en_us' >english</string>
+			<string lang='pt_br'>portuguese</string>
+		</text>
+
+		<text id='menu_timer'>
+			<string lang='en_us' >TIMER</string>
+			<string lang='pt_br'>TEMPO</string>
+		</text>
+		
+		<text id='level_name_town'>
+			<string lang='en_us' >TOWN OF TREATS</string>
+			<string lang='pt_br'>VILA DOS VULTOS</string>
+		</text>
+		
+		<text id='level_name_woods'>
+			<string lang='en_us' >WICKED WOODS</string>
+			<string lang='pt_br'>FLORESTA FÚNEBRE</string>
+		</text>		
+		
+		<text id='level_name_castle'>
+			<string lang='en_us' >FORTRESS OF FRIGHT</string>
+			<string lang='pt_br'>CASTELO CALAMITOSO</string>
+		</text>
+		
+		<text id='level_1'>
+			<string lang='en_us' >LEVEL 1</string>
+			<string lang='pt_br'>FASE 1</string>
+		</text>
+		
+		<text id='level_2'>
+			<string lang='en_us' >LEVEL 2</string>
+			<string lang='pt_br'>FASE 2</string>
+		</text>		
+		
+		<text id='level_final'>
+			<string lang='en_us' >LAST LEVEL</string>
+			<string lang='pt_br'>FASE FINAL</string>
+		</text>
+		
+		
+		<text id='menu_newgame'>
+			<string lang='en_us' >New Game</string>
+			<string lang='pt_br'>Novo Jogo</string>
+		</text>
+		
+		<text id='menu_option'>
+			<string lang='en_us' >Option</string>
+			<string lang='pt_br'>Opções</string>
+		</text>
+			
+		<text id='menu_leave'>
+			<string lang='en_us' >Leave</string>
+			<string lang='pt_br'>Sair</string>
+		</text>
+
+		<text id='menu_lang'>
+			<string lang='en_us' >Language</string>
+			<string lang='pt_br'>Idioma</string>
+		</text>
+		
+		<text id='menu_1player'>
+			<string lang='en_us' >1 PLAYER</string>
+			<string lang='pt_br'>1 JOGADOR</string>
+		</text>
+		
+		<text id='menu_2player'>
+			<string lang='en_us' >2 PLAYERS</string>
+			<string lang='pt_br'>2 JOGADORES</string>
+		</text>
+		
+		<text id='menu_3player'>
+			<string lang='en_us' >3 PLAYERS</string>
+			<string lang='pt_br'>3 JOGADORES</string>
+		</text>
+		
+		<text id='menu_4player'>
+			<string lang='en_us' >4 PLAYERS</string>
+			<string lang='pt_br'>4 JOGADORES</string>
+		</text>
+			
+		<text id='menu_pause'>
+			<string lang='en_us' >Pause</string>
+			<string lang='pt_br'>Pausa</string>
+		</text>
+		
+		<text id='menu_resumegame'>
+			<string lang='en_us' >Resume game</string>
+			<string lang='pt_br'>Continuar jogo</string>
+		</text>
+		
+		<text id='menu_backtotittle'>
+			<string lang='en_us' >Back to tittle screen</string>
+			<string lang='pt_br'>Voltar ao menu</string>
+		</text>
+		
+		<text id='menu_music'>
+			<string lang='en_us' >Music</string>
+			<string lang='pt_br'>Musica</string>
+		</text>
+		
+		<text id='menu_sound'>
+			<string lang='en_us' >Sound</string>
+			<string lang='pt_br'>Som</string>
+		</text>
+		
+		<text id='menu_fullscreen'>
+			<string lang='en_us' >Fullscreen</string>
+			<string lang='pt_br'>Tela cheia</string>
+		</text>
+		
+		<text id='menu_windowsize'>
+			<string lang='en_us' >Window size</string>
+			<string lang='pt_br'>Tamanho da janela</string>
+		</text>
+		
+		<text id='menu_setcontrols'>
+			<string lang='en_us' >Set controls</string>
+			<string lang='pt_br'>Definir controles</string>
+		</text>
+		
+		<text id='menu_player'>
+			<string lang='en_us' >Player</string>
+			<string lang='pt_br'>Jogador</string>
+		</text>
+		
+		<text id='menu_set'>
+			<string lang='en_us' >Set</string>
+			<string lang='pt_br'>Definir</string>
+		</text>
+		
+		<text id='menu_up'>
+			<string lang='en_us' >Up</string>
+			<string lang='pt_br'>Cima</string>
+		</text>
+		
+		<text id='menu_down'>
+			<string lang='en_us' >Down</string>
+			<string lang='pt_br'>Baixo</string>
+		</text>
+		
+		<text id='menu_left'>
+			<string lang='en_us' >Left</string>
+			<string lang='pt_br'>Esquerda</string>
+		</text>
+		
+		<text id='menu_right'>
+			<string lang='en_us' >Right</string>
+			<string lang='pt_br'>Direita</string>
+		</text>
+		
+		<text id='menu_buttonA'>
+			<string lang='en_us' >Button A - Action/Shoot</string>
+			<string lang='pt_br'>Botão A - Acao/Atirar</string>
+		</text>
+		
+		<text id='menu_buttonB'>
+			<string lang='en_us' >Button B - Cancel/Jump</string>
+			<string lang='pt_br'>Botão B - Cancelar/Atirar</string>
+		</text>
+		
+		<text id='menu_buttonC'>
+			<string lang='en_us' >Button C - Dash</string>
+			<string lang='pt_br'>Botão C - Dash</string>
+		</text>
+		
+		<text id='menu_areyousure'>
+			<string lang='en_us' >Are you sure?</string>
+			<string lang='pt_br'>Você tem certeza?</string>
+		</text>
+
+		<text id='menu_yes'>
+			<string lang='en_us' >Yes</string>
+			<string lang='pt_br'>Sim</string>
+		</text>
+		
+		<text id='menu_no'>
+			<string lang='en_us' >No</string>
+			<string lang='pt_br'>Não</string>
+		</text>
+		
+		<text id='menu_on'>
+			<string lang='en_us' >On</string>
+			<string lang='pt_br'>Ligado</string>
+		</text>
+		
+		<text id='menu_off'>
+			<string lang='en_us' >Off</string>
+			<string lang='pt_br'>Desligado</string>
+		</text>
+		
+		<text id='menu_enus'>
+			<string lang='en_us' >EN_US</string>
+			<string lang='pt_br'>EN_US</string>
+		</text>
+		
+		<text id='menu_ptbr'>
+			<string lang='en_us' >PT_BR</string>
+			<string lang='pt_br'>PT_BR</string>
+		</text>
+		
+		<text id='menu_button'>
+			<string lang='en_us' >Button</string>
+			<string lang='pt_br'>Botão</string>
+		</text>
+		
+		<text id='menu_setaction'>
+			<string lang='en_us' >Set action</string>
+			<string lang='pt_br'>Definir ação</string>
+		</text>
+		
+		<text id='menu_forplayer'>
+			<string lang='en_us' >for player</string>
+			<string lang='pt_br'>para jogador</string>
+		</text>
+		
+		<text id='menu_waitingcommand'>
+			<string lang='en_us' >Waiting command</string>
+			<string lang='pt_br'>Esperando comando</string>
+		</text>
+
+		<text id='menu_action'>
+			<string lang='en_us' >Shoot</string>
+			<string lang='pt_br'>Atirar</string>
+		</text>
+		
+		<text id='menu_jump'>
+			<string lang='en_us' >Jump</string>
+			<string lang='pt_br'>Pulo</string>
+		</text>
+		
+		<text id='menu_dash'>
+			<string lang='en_us' >Dash</string>
+			<string lang='pt_br'>Dash</string>
+		
+		</text>
+		
+		<text id='menu_keyboard'>
+			<string lang='en_us' >Keyboard</string>
+			<string lang='pt_br'>Teclado</string>
+		</text>
+
+		<text id='menu_gamepad'>
+			<string lang='en_us' >Gamepad</string>
+			<string lang='pt_br'>Controle</string>
+		</text>
+		
+		<text id='menu_characterselect'>
+			<string lang='en_us' >CHARACTER SELECT</string>
+			<string lang='pt_br'>ESCOLHER PERSSONAGEM</string>
+		</text>
+
+		<text id='menu_pressanybuttontojoin'>
+			<string lang='en_us' >PRESS ANY BUTTON TO JOIN</string>
+			<string lang='pt_br'>PRESSIONE QUALQUER BOTÃO PARA JOGAR</string>
+		</text>
+		
+		<text id='menu_c1t1'>
+			<string lang='en_us'>TRICKSTER</string>
+			<string lang='pt_br'>TONINHO</string>
+		</text>	
+		
+		<text id='menu_c1t2'>
+			<string lang='en_us'>TOM</string>
+			<string lang='pt_br'>TRAVERSSO</string>
+		</text>
+		
+		<text id='menu_c2t1'>
+			<string lang='en_us' >SINISTER</string>
+			<string lang='pt_br'>SARAH</string>
+		</text>	
+		
+		<text id='menu_c2t2'>
+			<string lang='en_us' >SARAH</string>
+			<string lang='pt_br'>SOMBROSA</string>
+		</text>
+
+		<text id='menu_c3t1'>
+			<string lang='en_us' >SAWYER</string>
+			<string lang='pt_br'>MUURILO</string>
+		</text>	
+		
+		<text id='menu_c3t2'>
+			<string lang='en_us' >SQUASHWORTH</string>
+			<string lang='pt_br'>MORANGA</string>
+		</text>
+		
+		<text id='menu_c4t1'>
+			<string lang='en_us' >VICIOUS</string>
+			<string lang='pt_br'>TEREZA</string>
+		</text>	
+		
+		<text id='menu_c4t2'>
+			<string lang='en_us' >VICKY</string>
+			<string lang='pt_br'>TREVOSA</string>
+		</text>
+		
+		<text id='menu_bubblegum'>
+			<string lang='en_us' >Bubblegum</string>
+			<string lang='pt_br'>Bubblegum</string>
+		</text>
+
+		<text id='menu_candycorn'>
+			<string lang='en_us' >Candy Corn</string>
+			<string lang='pt_br'>Candy Corn</string>
+		</text>
+		
+		<text id='menu_rockpopper'>
+			<string lang='en_us' >Rock Popper</string>
+			<string lang='pt_br'>Rock Popper</string>
+		</text>
+		
+		<text id='menu_pspice'>
+			<string lang='en_us' >P. Spice</string>
+			<string lang='pt_br'>P. Spice</string>
+		</text>
+		
+		<text id='menu_doublejump'>
+			<string lang='en_us' >Double Jump</string>
+			<string lang='pt_br'>P. Duplo</string>
+		</text>
+		
+		<text id='menu_groundpound'>
+			<string lang='en_us' >Groundpound</string>
+			<string lang='pt_br'>Pisada</string>
+		</text>
+		
+		<text id='menu_tackle'>
+			<string lang='en_us' >Tackle</string>
+			<string lang='pt_br'>Investida</string>
+		</text>
+		
+		<text id='menu_teleport'>
+			<string lang='en_us' >Teleport</string>
+			<string lang='pt_br'>Teleporte</string>
+		</text>	
+		
+		<text id='menu_credits'>
+			<string lang='en_us' >Credits</string>
+			<string lang='pt_br'>Creditos</string>
+		</text>	
+		
+		<text id='menu_agameby'>
+			<string lang='en_us' >A GAME BY</string>
+			<string lang='pt_br'>UM JOGO POR</string>
+		</text>	
+		
+		<text id='menu_credits_programming'>
+			<string lang='en_us' >PROGRAMMING AND LEVEL DESIGN</string>
+			<string lang='pt_br'>PPROGRAMAÇÃO E LEVEL DESIGN</string>
+		</text>	
+		
+		<text id='menu_credits_art'>
+			<string lang='en_us' >ART AND LEVEL DESIGN</string>
+			<string lang='pt_br'>ARTE E LEVEL DESIGN</string>
+		</text>
+		
+		<text id='menu_credits_music'>
+			<string lang='en_us' >MUSIC</string>
+			<string lang='pt_br'>MÚSICA</string>
+		</text>
+		
+		<text id='menu_gameovertitle'>
+			<string lang='en_us' >Game Over</string>
+			<string lang='pt_br'>Fim de jogo</string>
+		</text>
+
+		<text id='menu_gameovertext'>
+			<string lang='en_us' >Continue game?</string>
+			<string lang='pt_br'>Continuar jogo?</string>
+		</text>
+		
+		<text id='menu_gameover_yes'>
+			<string lang='en_us' >YES</string>
+			<string lang='pt_br'>SIM</string>
+		</text>
+		
+		<text id='menu_gameover_no'>
+			<string lang='en_us' >NO</string>
+			<string lang='pt_br'>NÃO</string>
+		</text>
+		<!--[/MENU]-->
+		<!--[STARTMENUTEXT]-->
+		
+		<text id='startmenutext_text0'>
+			<string lang='en_us' >Trick or threat!</string>
+			<string lang='pt_br'>Doces ou travessuras!</string>
+		</text>
+		
+		<text id='startmenutext_text1'>
+			<string lang='en_us' >It stinks!</string>
+			<string lang='pt_br'>Isso fede!</string>
+		</text>
+		
+		<text id='startmenutext_text2'>
+			<string lang='en_us' >Tastes like... chicken?!</string>
+			<string lang='pt_br'>Tem gosto de... galinha?!</string>
+		</text>
+		
+		<text id='startmenutext_text3'>
+			<string lang='en_us' >10/10</string>
+			<string lang='pt_br'>10/10</string>
+		</text>
+		
+		<text id='startmenutext_text4'>
+			<string lang='en_us' >* * * * *</string>
+			<string lang='pt_br'>* * * * *</string>
+		</text>
+		
+		<text id='startmenutext_text5'>
+			<string lang='en_us' >It's Aliiiiive!</string>
+			<string lang='pt_br'>Tá viiiiiiivo!</string>
+		</text>
+		
+		<text id='startmenutext_text6'>
+			<string lang='en_us' >Do you like spooky games?</string>
+			<string lang='pt_br'>Cê gosta de jogos assustadores?</string>
+		</text>
+		
+		<text id='startmenutext_text7'>
+			<string lang='en_us' >Do you want to play this game?</string>
+			<string lang='pt_br'>Você quer jogar esse jogo?</string>
+		</text>
+		
+		<text id='startmenutext_text8'>
+			<string lang='en_us' >I see dead pixels...</string>
+			<string lang='pt_br'>Eu vejo pixeis mortos...</string>
+		</text>
+		
+		<text id='startmenutext_text9'>
+			<string lang='en_us' >Be spooked. Very spooked.</string>
+			<string lang='pt_br'>Fique assustado. Muito assustado.</string>
+		</text>
+		
+		
+		<text id='startmenutext_text10'>
+			<string lang='en_us' >In space, no one can hear you knock.</string>
+			<string lang='pt_br'>No espaço, ninguém consegue ouvir você bater.</string>
+		</text>
+		
+		<text id='startmenutext_text11'>
+			<string lang='en_us' >BOO!</string>
+			<string lang='pt_br'>BOO!</string>
+		</text>
+		
+		<text id='startmenutext_text12'>
+			<string lang='en_us' >Thanks.</string>
+			<string lang='pt_br'>Valeu.</string>
+		</text>
+		
+		<text id='startmenutext_text13'>
+			<string lang='en_us' >KNOCK KNOCK</string>
+			<string lang='pt_br'>TOQUE TOQUE</string>
+		</text>
+		
+		<text id='startmenutext_text14'>
+			<string lang='en_us' >Hehehehe.....</string>
+			<string lang='pt_br'>Huehuehuehue...</string>
+		</text>
+		
+		<text id='startmenutext_text15'>
+			<string lang='en_us' >Uh. That's unexpected.</string>
+			<string lang='pt_br'>Hmm. Isso foi inesperado.</string>
+		</text>
+		
+		<text id='startmenutext_text16'>
+			<string lang='en_us' >R.I.P.</string>
+			<string lang='pt_br'>R.I.P.</string>
+		</text>
+		
+		<text id='startmenutext_text17'>
+			<string lang='en_us' >F</string>
+			<string lang='pt_br'>F</string>
+		</text>
+		
+		<text id='startmenutext_text18'>
+			<string lang='en_us' >Surprise!</string>
+			<string lang='pt_br'>Surpresa!</string>
+		</text>
+		
+		<text id='startmenutext_text19'>
+			<string lang='en_us' >Whoa dude</string>
+			<string lang='pt_br'>Eita maluco</string>
+		</text>	
+		
+			
+		<text id='startmenutext_text20'>
+			<string lang='en_us' >Hmmm.</string>
+			<string lang='pt_br'>Hmmm.</string>
+		</text>
+		
+		<text id='startmenutext_text21'>
+			<string lang='en_us' >Oh. Hi!</string>
+			<string lang='pt_br'>Ah. Oi!</string>
+		</text>
+		
+		<text id='startmenutext_text22'>
+			<string lang='en_us' >This is a secret message.</string>
+			<string lang='pt_br'>Essa é uma menssagem secreta</string>
+		</text>
+		
+		<text id='startmenutext_text23'>
+			<string lang='en_us' >BEHIND YOU!</string>
+			<string lang='pt_br'>Atrás de você!</string>
+		</text>
+			
+		<text id='tutorial_movecharacter'>
+			<string lang='en_us' >MOVE CHARACTER</string>
+			<string lang='pt_br'>MOVER PERSONAGEM</string>
+		</text>
+		
+		<text id='tutorial_shoot'>
+			<string lang='en_us' >SHOOT / CONFIRM</string>
+			<string lang='pt_br'>ATIRAR / CONFIRMAR</string>
+		</text>
+			
+		<text id='tutorial_pause'>
+			<string lang='en_us' >PAUSE</string>
+			<string lang='pt_br'>PAUSA</string>
+		</text>
+			
+		<text id='tutorial_jump'>
+			<string lang='en_us' >JUMP / CANCEL</string>
+			<string lang='pt_br'>PULAR / CANCELAR</string>
+
+		</text>
+		
+		<text id='tutorial_special'>
+			<string lang='en_us' >SPECIAL ACTION</string>
+			<string lang='pt_br'>AÇÃO ESPECIAL</string>
+		</text>
+
+		<text id='tutorial_defaultcontrols'>
+			<string lang='en_us' >DEFAULT CONTROLS</string>
+			<string lang='pt_br'>CONTROLES PADRÕES</string>
+		</text>
+
+		<text id='tutorial_continue'>
+			<string lang='en_us' >CONTINUE</string>
+			<string lang='pt_br'>CONTINUAR</string>
+		</text>
+		
+		<text id='tutorial_viewgamepadcontrols'>
+			<string lang='en_us' >VIEW GAMEPAD CONTROLS</string>
+			<string lang='pt_br'>VER CONTROLES DO GAMEPAD</string>
+		</text>	
+		
+		<text id='tutorial_viewkeyboardcontrols'>
+			<string lang='en_us' >VIEW KEYBOARD CONTROLS</string>
+			<string lang='pt_br'>VER CONTROLES DO TECLADO</string>
+		</text>
+
+			
+		<!--[/STARTMENUTEXT]-->
+		
+		<!--[PICKUP]-->
+		
+		<text id='pickup_weapon1'>
+			<string lang='en_us' >Bubblegum!</string>
+			<string lang='pt_br'>Bubblegum!</string>
+		</text>
+			
+		<text id='pickup_weapon2'>
+			<string lang='en_us' >P. Spice!</string>
+			<string lang='pt_br'>P. Spice!</string>
+		</text>
+			
+		<text id='pickup_weapon3'>
+			<string lang='en_us' >Rock Popper!</string>
+			<string lang='pt_br'>Rock Popper!</string>
+		</text>
+			
+		<text id='pickup_weapon4'>
+			<string lang='en_us' >Candy Corn!</string>
+			<string lang='pt_br'>Candy Corn!</string>
+		</text>
+		
+		<text id='pickup_weaponupgrade'>
+			<string lang='en_us' >Weapon upgrade!</string>
+			<string lang='pt_br'>Melhoria de arma!</string>
+		</text>
+		
+		<text id='pickup_life'>
+			<string lang='en_us' >+1 life!</string>
+			<string lang='pt_br'>+1 vida!</string>
+		</text>
+		
+		<text id='pickup_health'>
+			<string lang='en_us' >+1 health!</string>
+			<string lang='pt_br'>+1 saude!</string>
+		</text>
+		
+		<!--[/PICKUP]-->
+				
+				
+		<text id='game_nocheckpoint'>
+			<string lang='en_us' >No safe point! ):</string>
+			<string lang='pt_br'>Sem ponto seguro! ):</string>
+		</text>
+				
+				
+				
+		<text id='ending_dialog1'>
+			<string lang='en_us' >Tom: Aw yeah dude, we got so much candy!</string>
+			<string lang='pt_br'>Toninho: Aí sim cara, a gente pegou muito doce!</string>
+		</text>
+		
+		<text id='ending_dialog2'>
+			<string lang='en_us' >Squash: *munch munch* Indeed! Some of these are rather exquisite! *munch munch*</string>
+			<string lang='pt_br'>Murilo: *nhom nhom* Certamente! Alguns desses são deveras requintados!</string>
+		</text>		
+
+		<text id='ending_dialog3'>
+			<string lang='en_us' >Sarah: They candy is pretty good and all... But... Uhh... I'm not sure if Vicky is ok...</string>
+			<string lang='pt_br'>Sarah: Os doces tão muito bons e tal... Mas... Uhh... Não sei se a Tereza tá bem...</string>
+		</text>
+		
+		<text id='ending_dialog4'>
+			<string lang='en_us' >Vicky: *grbbbhhhhhhbrghh*</string>
+			<string lang='pt_br'>Tereza: *grbbbhhhhhhbrghh*</string>
+		</text>
+				
+		<text id='ending_dialog5'>
+			<string lang='en_us' >Vicky: ...</string>
+			<string lang='pt_br'>Tereza: ...</string>
+		</text>
+				
+		<text id='ending_dialog6'>
+			<string lang='en_us' >Vicky: I...</string>
+			<string lang='pt_br'>Tereza: Eu...</string>
+		</text>
+				
+		<text id='ending_dialog7'>
+			<string lang='en_us' >Vicky: Need...</string>
+			<string lang='pt_br'>Tereza: Preciso...</string>
+		</text>
+								
+		<text id='ending_dialog8'>
+			<string lang='en_us'>Vicky: MORE CANDY!</string>
+			<string lang='pt_br'>Tereza: DE MAIS DOCE!</string>
+		</text>
+								
+		<text id='ending_dialog9'>
+			<string lang='en_us'>Sarah: Nevermind... Seems like she is doing fine...</string>
+			<string lang='pt_br'>Sarah: Deixa pra lá... Parece que ela está bem...</string>
+		</text>
+						
+		<text id='ending_dialog10'>
+			<string lang='en_us'>Vicky: *grumble grumble* Hey Tom, gimme this one you are holding! IT LOOKS TASTY!</string>
+			<string lang='pt_br'>Tereza: *chomp chomp* Ei Tom, me dá esse que você tá segurando! PARECE GOSTOSO!</string>
+		</text>
+								
+								
+		<text id='ending_dialog11'>
+			<string lang='en_us'>Squash: Oh, it really does! I have never seen a candy as dainty as this.</string>
+			<string lang='pt_br'>Murilo: Oh, realmente parece! Nunca vi um doce tão elegante quanto esse.</string>
+		</text>
+												
+		<text id='ending_dialog12'>
+			<string lang='en_us'>Tom: Hey, look away! It's mine!</string>
+			<string lang='pt_br'>Toninho: Ei, tira os olhos! Esse é meu!</string>
+		</text>
+				
+		<text id='ending_dialog13'>
+			<string lang='en_us'>Sarah: I feel a strange aura comming from this candy... It almost feels like it is somewhat... malicious...</string>
+			<string lang='pt_br'>Sarah: Eu sinto uma aura estranha vinda desse doce... Parece até que é meio... tenebroso...</string>
+		</text>
+				
+				
+		<text id='ending_dialog14'>
+			<string lang='en_us'>*Squash starts sweating*</string>
+			<string lang='pt_br'>*Murilo começa a suar*</string>
+		</text>
+							
+		<text id='ending_dialog15'>
+			<string lang='en_us'>Tom: WHOA! Do you think this is like a cursed treasure? We need to find out what it does!</string>
+			<string lang='pt_br'>Toninho: UAU! Você acha que é tipo um tesouro amaldiçoado? Precisamos descobrir o que isso faz!</string>
+		</text>
+				
+		<text id='ending_dialog16'>
+			<string lang='en_us'>Squash: Cu-cu...CURSED!?</string>
+			<string lang='pt_br'>Murilo: A-a...AMALDIÇOADO!?</string>
+		</text>
+		
+		<text id='ending_dialog17'>
+			<string lang='en_us'>Sarah: Here we go again...</string>
+			<string lang='pt_br'>Sarah: Lá vamos nós de novo...</string>
+		</text>
+						
+		<text id='ending_dialog18'>
+			<string lang='en_us'>Vicky: I DON'T CARE I'M GONNA EAT IT!</string>
+			<string lang='pt_br'>Tereza: TÔ NEM AÍ EU VOU COMER!</string>
+		</text>
+										
+		<text id='ending_dialog19'>
+			<string lang='en_us'>THE END (?)</string>
+			<string lang='pt_br'>FIM (?)</string>
+		</text>
+				
+
+
+		
+		
+		
+		
+
+		
+	</gametext>
+
+	
+</root>
