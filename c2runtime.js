@@ -32287,7 +32287,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.exps.Opacity,
 	cr.behaviors.Bullet.prototype.acts.SetAngleOfMotion,
 	cr.behaviors.Bullet.prototype.acts.SetSpeed,
-	cr.plugins_.Browser.prototype.acts.Alert,
 	cr.plugins_.Sprite.prototype.acts.StartAnim,
 	cr.plugins_.Sprite.prototype.acts.StopAnim,
 	cr.plugins_.AJAX.prototype.acts.Request,
